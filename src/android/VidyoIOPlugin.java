@@ -16,7 +16,7 @@ import org.json.JSONObject;
 
 import android.view.WindowManager;/*NOESIS 2019.08.01*/
 
-import com.vidyo.vidyoconnector.VidyoIOActivity;
+import com.outsystemsenterprise.marcopayincdev.MarCoPayDigitalKYC.R;
 
 import android.Manifest;
 
